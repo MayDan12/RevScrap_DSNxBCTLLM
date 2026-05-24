@@ -2,7 +2,7 @@ import type React from "react";
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-import { Header } from "@/components/header";
+
 import { Recycle } from "lucide-react";
 
 const _geist = Geist({ subsets: ["latin"] });
@@ -40,23 +40,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`font-sans antialiased`}>
-        {/* <Header /> */}
         <main>{children}</main>
-        {/* <footer className=" border-t py-12 bg-muted/30">
-          <div className="container px-4">
-            <div className="flex flex-col items-center justify-between gap-4 md:flex-row">
-              <div className="flex items-center gap-2">
-                <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary">
-                  <Recycle className="h-4 w-4 text-primary-foreground" />
-                </div>
-                <span className="font-semibold">EcoScrap</span>
-              </div>
-              <p className="text-sm text-muted-foreground text-center">
-                {"Built for CATS Hackathon & Cardano Africa Tech Summit 2026"}
-              </p>
-            </div>
-          </div>
-        </footer> */}
       </body>
     </html>
   );

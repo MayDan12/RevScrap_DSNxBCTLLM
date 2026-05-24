@@ -13,7 +13,7 @@ The implementation includes:
 
 ## Live Demo
 
-- Web UI: https://mayowa-oluwanimotele.vercel.app/hack-demo
+- Web UI: https://reviewllmagent.vercel.app/hack-demo
 
 ## Quick Start (Local)
 
