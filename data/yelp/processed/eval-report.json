@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "builtAt": "2026-05-22T13:15:16.789Z",
+    "indexPath": "/Users/maydan/Developer/WebDev/ecoscrap/data/yelp/processed/index.json",
+    "baseUrl": "http://localhost:3000",
+    "mode": "baseline",
+    "userLimit": 25,
+    "k": 10
+  },
+  "baseline": {
+    "usersEvaluated": 24,
+    "taskA": {
+      "rmse": 1.399404635312222
+    },
+    "taskB": {
+      "k": 10,
+      "hitRate": 0,
+      "ndcg": 0
+    }
+  },
+  "llm": null
+}

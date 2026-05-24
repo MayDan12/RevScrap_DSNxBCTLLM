@@ -1,0 +1,42 @@
+{
+  "sampleUserId": "wFweIWhv2fREZV_dYkz_1g",
+  "sampleBusinessId": "ZRJwVLyzEJq1VAihDhYiow",
+  "sampleUser": {
+    "id": "wFweIWhv2fREZV_dYkz_1g",
+    "name": "wFweIWhv2fREZV_dYkz_1g",
+    "reviewCount": 10,
+    "averageStars": 4.1
+  },
+  "sampleBusiness": {
+    "id": "ZRJwVLyzEJq1VAihDhYiow",
+    "name": "Spinato's Pizzeria",
+    "city": "Phoenix",
+    "state": "AZ",
+    "categories": [],
+    "stars": 4,
+    "reviewCount": 102
+  },
+  "sampleUserReviews": [
+    {
+      "userId": "wFweIWhv2fREZV_dYkz_1g",
+      "businessId": "zp713qNhx8d9KCJJnrw1xA",
+      "stars": 5,
+      "text": "Drop what you're doing and drive here. After I ate here I had to go back the next day for more.  The food is that good.\n\nThis cute little green building may have gone competely unoticed if I hadn't been driving down Palm Rd to avoid construction.  While waiting to turn onto 16th Street the \"Grand Opening\" sign caught my eye and my little yelping soul leaped for joy!  A new place to try!\n\nIt looked desolate from the outside but when I opened the door I was put at easy by the decor, smell and cleanliness inside.  I ordered dinner for two, to go.  The menu was awesome.  I loved seeing all the variety: poblano peppers, mole, mahi mahi, mushrooms...something wrapped in banana leaves.  It made it difficult to choose something.  Here's what I've had so far: La Condesa Shrimp Burro and Baja Sur Dogfish Shark Taco.  They are both were very delicious meals but the shrimp burro stole the show.  So much flavor.  I snagged some bites from my hubbys mole and mahi mahi burros- mmmm such a delight.  The salsa bar is endless.  I really stocked up.  I was excited to try the strawberry salsa but it was too hot, in fact it all was, but I'm a big wimp when it comes to hot peppers. The horchata is handmade and delicious.  They throw pecans and some fruit in there too which is a yummy bonus!\n\nAs if the good food wasn't enough to win me over the art in this restaurant sho did!  I'm a sucker for Mexican folk art and Frida Kahlo is my Oprah.  There's a painting of her and Diego hanging over the salsa bar, it's amazing.  All the paintings are great, love the artist.",
+      "date": "2010-02-12"
+    },
+    {
+      "userId": "wFweIWhv2fREZV_dYkz_1g",
+      "businessId": "kfscAJnLVf6J2uEte7g-5A",
+      "stars": 5,
+      "text": "I found this little hot spot on Yelp and used my phone to navigate me there; I wouldn't have found it otherwise.  This small establishment is hidden in a neighborhood right off of Historic Downtown Chandler.  It's a quaint little diner with modest décor.  I felt very comfortable there and the service was fast and friendly.  As I looked over the menu the first thing I saw was the Morning Monte and havarti cheese as one of the ingredients.  Cheddar isn't better; it's all about havarti folks!  I needn't look further; I knew that's what I was having.  Hawaiian bread French toast, bacon, turkey, egg and the havarti - absolutely delicious!  Can't wait to come back and bring everyone I know.",
+      "date": "2011-11-13"
+    },
+    {
+      "userId": "wFweIWhv2fREZV_dYkz_1g",
+      "businessId": "Nq7eB1wB2EArUICtiNePvQ",
+      "stars": 4,
+      "text": "Shopping around TMP made me thirsty for a cocktail.  There is some type of Cantina I passed by that did not look relaxing so I went to my Yelp app to see what else was around when I saw the Thirsty Lion.  I was expecting an English pub-like atmosphere and I was pleasantly surprised when I walked in and saw the clean and modern decor.  I sat at the bar, a great thing about this place is that it has HH on the weekends!  The bartender wasn't that great.  He just threw down a drink coaster and walked off.... uh... really?  When he came back around I ordered a specialty drink - mint and cucumber cooler or something like that - I was hoping for more cucumber than mint but the mint was overwhelming, it tasted more like a mint julep.  They did have a great selection of beers on tap but I really wanted a cocktail so the next round was a jack and coke.  \n\nI wasn't planning to eat but I noticed some hard-boiled eggs wrapped in sausage on the HH menu, I had to try those, it's not often that I see something unique on a menu.  They were pretty good actually.\n\nI can't wait to come back.",
+      "date": "2012-08-21"
+    }
+  ]
+}
